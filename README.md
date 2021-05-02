@@ -1,4 +1,11 @@
 # discord-bot
+<br />
+<p align="center">
+  <a href="https://github.com/akr13/discord-bot">
+    <img src="src/images/logo.jpg" alt="Logo">
+  </a>
+</p>
+
 A discord bot created for RU Hacks that helps students optimize their job hunting expeience.
 
 ## Inspiration
